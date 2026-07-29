@@ -1,1 +1,2 @@
-console.log ("hello word 1");
+function teste(){
+}
