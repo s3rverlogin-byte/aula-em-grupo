@@ -1,2 +1,1 @@
-function teste(){
-}
+console.log("exe.table")
