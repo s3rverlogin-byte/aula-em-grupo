@@ -1,0 +1,11 @@
+html{
+    background-color: #8aedff;
+}
+#tela{
+    text-align: center;
+}
+#input{
+    display: block;
+    margin: 0 auto;
+    font-size: 20px;
+}
