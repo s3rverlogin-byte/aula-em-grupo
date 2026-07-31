@@ -6,6 +6,10 @@ async function teste(){
 }
 function input(){
     let teste=document.getElementById("input").value;
-    alert(save[teste]);
+    if(save[teste]){
+        alert(save[teste]);
+    }else{
+        alert("erro de busca");
+    }
 }
 teste();
