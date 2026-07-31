@@ -4,8 +4,8 @@ html{
 #tela{
     text-align: center;
 }
-#input{
+#but, #inpu{
     display: block;
     margin: 0 auto;
-    font-size: 20px;
+    font-size: 25px;
 }
