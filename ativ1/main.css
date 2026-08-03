@@ -1,10 +1,10 @@
 html{
-    background-color: #57e1fd;
+    background-color: #8aedff;
 }
 #tela{
     text-align: center;
 }
-#but, #input{
+#but, #inpu{
     display: block;
     margin: 0 auto;
     font-size: 25px;
