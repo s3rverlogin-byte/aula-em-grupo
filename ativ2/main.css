@@ -1,8 +1,19 @@
 
 html{
-    background-color: rgb(51, 255, 201);
+    background-image: linear-gradient(to top, rgb(255, 0, 0), rgb(0, 0, 255))
 }
 #texto{
     color: #ff0000;
     text-align: center;
+    font-size: 50px;
+}
+#but, #input{
+    display: block;
+    margin: 10px auto;
+    font-size: 20px;
+}
+#imagem{
+    width: 328px;
+    height: 328px;
+    object-fit: cover;
 }
